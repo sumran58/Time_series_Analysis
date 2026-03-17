@@ -7,29 +7,7 @@ The goal of this repository is to build a strong understanding of time series co
 
 ---
 
-## Repository Structure
 
-```
-time_series_analysis/
-│
-├── practice/
-│   │
-│   ├── decomposition/
-│   │   └── time_series_decomposition.ipynb
-│   │
-│   ├── stationarity/
-│   │   └── stationarity_tests.ipynb
-│   │
-│   ├── autocorrelation/
-│   │   └── acf_pacf_analysis.ipynb
-│   │
-│   └── forecasting/
-│       └── forecasting_models.ipynb
-│
-└── README.md
-```
-
----
 
 ## Folder Description
 
